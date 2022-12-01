@@ -7,7 +7,7 @@ Projeto para apresentar um site de uma barbearia.
 | :sparkles: Nome        | **Projeto Barbearia Alura**
 | :label: Tecnologias | HTML5, CSS3
 | :rocket: URL         | https://thamyresmya.github.io/Barbearia-Alura/
-| :fire: Desafio     | 
+| :fire: Desafio     | Criar um pagina na web. 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](capa.png)
